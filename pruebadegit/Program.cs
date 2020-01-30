@@ -9,6 +9,8 @@ namespace PruebaDeGIt
             Console.WriteLine("Hello World!");
 
             Console.WriteLine(" ya casi terminamos creoxD");
+
+            Int hola=0;
         }
     }
 }
