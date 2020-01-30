@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace PruebaDeGIt
 {
@@ -7,6 +7,8 @@ namespace PruebaDeGIt
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine(" ya casi terminamos creoxD");
         }
     }
 }
